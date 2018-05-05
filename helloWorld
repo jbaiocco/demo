@@ -6,8 +6,8 @@
 package helloworld;
 
 /**
- * How are things in Temecula?
- * @author Joe B
+ * How are things in Temecula? It's nice and cool here.
+ * @author Joe B from Chicago
  */
 public class HelloWorld {
 

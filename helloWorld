@@ -6,8 +6,8 @@
 package helloworld;
 
 /**
- *
- * @author Joseph
+ * How are things in Temecula?
+ * @author Joe B
  */
 public class HelloWorld {
 

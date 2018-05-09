@@ -1,17 +1,8 @@
-/*
- * Originally created in NetBeans
- */
+
 package helloworld;
 
-/**
- * How are things in Temecula? It's nice and cool here.
- * @author Joe B from Chicago. We have good pizza here.
- */
 public class HelloWorld {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int x = 3;
         if (x<5){
